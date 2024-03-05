@@ -3,7 +3,7 @@ package com.umairabdsalam.apps;
 import java.util.ArrayList;
 import java.util.LinkedList;
 
-public class Main {
+public class MainArrayLinkCompare {
 
 	public static void main(String[] args) {
 		
